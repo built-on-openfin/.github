@@ -1,10 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./openfin-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./openfin-light.svg">
-  <img alt="OpenFin" src="./openfin-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/built-on-openfin/.github/blob/main/profile/openfin-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/built-on-openfin/.github/blob/main/profile/openfin-light.svg?raw=true">
+  <img alt="OpenFin" src="(https://github.com/built-on-openfin/.github/blob/main/profile/openfin-light.svg">
 </picture>
-
-![OpenFin logo](https://github.com/built-on-openfin/.github/blob/main/profile/openfin.svg?raw=true)
 
 # Built-On-Openfin
 
