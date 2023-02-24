@@ -1,4 +1,4 @@
-![OpenFin logo](./openfin.svg)
+![OpenFin logo](https://github.com/built-on-openfin/.github/blob/main/profile/openfin.svg?raw=true)
 
 # Built-On-Openfin
 
