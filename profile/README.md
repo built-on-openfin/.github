@@ -21,6 +21,10 @@ Developers can clone or download the repositories to get started with building t
 
 - [Deployment](https://github.com/built-on-openfin/deployment) – Tools and scripts which can be used when deploying OpenFin applications
 
+## Tools
+
+- [OpenFin Process Manager](https://start.openfin.co/pm>) - Install the OpenFin process manager application
+
 ## Other Resources
 
 - [OpenFin Web Site](https://www.openfin.co)
