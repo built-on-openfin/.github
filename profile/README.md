@@ -14,7 +14,6 @@ Developers can clone or download the repositories to get started with building t
 
 - [Container Starter](https://github.com/built-on-openfin/container-starter) – Examples demonstrating the OpenFin container product written in TypeScript
 - [Workspace Starter](https://github.com/built-on-openfin/workspace-starter) – Examples demonstrating the OpenFin workspace product written in TypeScript
-- [Java Starter](https://github.com/built-on-openfin/java-starter) – Examples demonstrating the OpenFin product written in Java
 - [CSharp Starter](https://github.com/built-on-openfin/csharp-starter) – Examples demonstrating the OpenFin product written in .NET
 
 ## Deployment Repositories
