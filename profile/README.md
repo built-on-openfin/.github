@@ -2,7 +2,7 @@
 
 # Built-On-Openfin
 
-This repository is maintained by OpenFin and is a collection of open-source examples and applications that demonstrate the capabilities of the OpenFin platform. It is a companion repository to the primary [OpenFin Organization](https://github.com/openfin)
+This repository is maintained by OpenFin and is a collection of examples and applications that demonstrate the capabilities of the OpenFin platform. It is a companion repository to the primary [OpenFin Organization](https://github.com/openfin)
 
 The examples can be used by developers who are interested in building applications with OpenFin, and who want to see how different features and functionalities can be implemented.
 
