@@ -24,4 +24,5 @@ Developers can clone or download the repositories to get started with building t
 ## Other Resources
 
 - [OpenFin Web Site](https://www.openfin.co)
+- [OpenFin Repositories](https://github.com/openfin)
 - [Development Docs](https://developers.openfin.co/)
