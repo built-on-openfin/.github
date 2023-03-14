@@ -27,7 +27,7 @@ Developers can clone or download the repositories to get started with building t
 
 ## Tools
 
-- [OpenFin Process Manager](https://start.openfin.co/pm>) - Install the OpenFin process manager application
+- [OpenFin Process Manager](https://start.openfin.co/pm) - Install the OpenFin process manager application
 
 ## License
 
