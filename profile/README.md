@@ -33,6 +33,7 @@ OpenFin technology is frontend framework agnostic, but to gain a clearer underst
 
 ## Tools
 
+- [OpenFin Health Check](https://cdn.openfin.co/health/deployment/index.html) - Load this page to see if you will be able to install/run OpenFin without issue.
 - [OpenFin Process Manager](https://start.openfin.co/pm) - Install the OpenFin process manager application
 
 ## License
