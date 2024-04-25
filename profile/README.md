@@ -18,6 +18,7 @@ Developers can clone or download the repositories to get started with building t
 
 - [Container Starter](https://github.com/built-on-openfin/container-starter) – Examples demonstrating the OpenFin container product written in TypeScript
 - [Workspace Starter](https://github.com/built-on-openfin/workspace-starter) – Examples demonstrating the OpenFin workspace product written in TypeScript
+- [Web Starter](https://github.com/built-on-openfin/web-starter) – Examples demonstrating OpenFin NPM Libraries that work outside of the OpenFin Container (e.g a Desktop Browser like Edge, Chrome, etc or on a Tablet e.g. Safari) written in TypeScript
 - [Node Starter](https://github.com/built-on-openfin/node-starter) – Examples demonstrating the OpenFin product written in NodeJS
 - [CSharp Starter](https://github.com/built-on-openfin/csharp-starter) – Examples demonstrating the OpenFin product written in .NET
 - [Java Starter](https://github.com/built-on-openfin/java-starter) – Examples demonstrating the OpenFin product written in Java
