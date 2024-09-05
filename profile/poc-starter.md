@@ -1,26 +1,25 @@
 # Getting started building a Proof of Concept (POC)
 
-This guide walks you though setting up a proof of concept.
-
-It follows a step by step process using the simplest possible path to creating a working application.
+This guide walks you though setting up a proof of concept. It follows a step by step process using the simplest possible path to creating a working application.
 
 ## Understand the basics
 
 [Videos, product demos, and webinars](https://www.openfin.co/on-demand/)
 
-[Unifying you Notifications Experience](https://www.openfin.co/on-demand/?wchannelid=qfzzhxnygo&wmediaid=3m5b0o78va)
+[Unifying your Notifications Experience](https://www.openfin.co/on-demand/?wchannelid=qfzzhxnygo&wmediaid=3m5b0o78va)
 
 ## **Access Live Demos**
 
-Hosted examples are available to quickly install and use without setting up a development environment. 
+Hosted examples are available to quickly use without setting up a development environment. 
 
 ### Workspace
 
-Download and run the installer if you do not yet have the Runtime Version Manager (RVM) installed. On subsequent visits applications will launch without requiring additional installation.
-
 [Basic workspace starter](https://start.openfin.co/?manifest=https%3A%2F%2Fbuilt-on-openfin.github.io%2Fworkspace-starter%2Fworkspace%2Fv19.0.0%2Fworkspace-platform-starter-basic%2Fmanifest.fin.json) - Simple application demonstrating fundamental features  
+
 [Workspace Platform Starter](https://start.openfin.co/?manifest=https%3A%2F%2Fbuilt-on-openfin.github.io%2Fworkspace-starter%2Fworkspace%2Fv19.0.0%2Fworkspace-platform-starter-basic%2Fmanifest.fin.json) - Fully featured application showing all available options 
   
+Download and run the installer if you do not yet have the Runtime Version Manager (RVM) installed. On subsequent visits applications will launch without requiring additional installation.
+
 [More workspace demos…](https://github.com/built-on-openfin/workspace-starter)  
 
 ### Web
