@@ -28,6 +28,10 @@ Developers can clone or download the repositories to get started with building t
 OpenFin technology is frontend framework agnostic, but to gain a clearer understanding of how you would use it with popular frameworks we have some created simple examples in the following repository.
 - [Frontend Framework Starter](https://github.com/built-on-openfin/frontend-framework-starter) - Examples for Angular/React using both container and workspace.
 
+## Guides
+
+- [Getting started building a Proof of Concept (POC)](https://github.com/built-on-openfin/.github/blob/main/profile/poc-starter.md) – Step by step guide to set up your POC
+
 ## Deployment Repositories
 
 - [Deployment](https://github.com/built-on-openfin/deployment) – Tools and scripts which can be used when deploying OpenFin applications
