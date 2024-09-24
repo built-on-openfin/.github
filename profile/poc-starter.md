@@ -18,7 +18,7 @@ Access live demos to understand what your POC should aim to achieve.
 ### Workspace
 
 [Basic workspace starter](https://start.openfin.co/?manifest=https%3A%2F%2Fbuilt-on-openfin.github.io%2Fworkspace-starter%2Fworkspace%2Fv19.0.0%2Fworkspace-platform-starter-basic%2Fmanifest.fin.json) - Simple application demonstrating fundamental features  
-[Workspace platform Starter](https://start.openfin.co/?manifest=https%3A%2F%2Fbuilt-on-openfin.github.io%2Fworkspace-starter%2Fworkspace%2Fv19.0.0%2Fworkspace-platform-starter-basic%2Fmanifest.fin.json) - Fully featured application showing all available options
+[Workspace platform Starter](https://start.openfin.co/?manifest=https%3A%2F%2Fbuilt-on-openfin.github.io%2Fworkspace-starter%2Fworkspace%2Fv19.0.0%2Fworkspace-platform-starter%2Fsecond.manifest.fin.json) - Fully featured application showing all available options
 
 On first visit, download and run the installer to install the OpenFun runtime. On subsequent visits, applications will launch without requiring additional installation.
 
@@ -41,6 +41,9 @@ OpenFin development is based on web technologies, such as JavaScript, Node.js, a
 
 ### Prerequisites
 
+First, ensure your network can access the necessary OpenFin endpoints: [Health Check](https://cdn.openfin.co/health/deployment/index.html)
+
+Install development tooling:  
 [NodeJS](https://nodejs.org/en/download/package-manager) (Current LTS version recommended)  
 [OpenFin RVM](https://developer.openfin.co/versions/?product=RVM) - if you installed one of the live workspace demos above you will have installed the RVM
 
