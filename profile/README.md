@@ -6,7 +6,7 @@
 
 # Built On HERE
 
-This repository is maintained by Here (formerly OpenFin) and is a collection of examples and applications that demonstrate the capabilities of the HERE (formally OpenFin) platform. It is a companion organisation to the primary [HERE Organization](https://github.com/openfin)
+This repository is maintained by HERE (formerly OpenFin) and is a collection of examples and applications that demonstrate the capabilities of the HERE (formally OpenFin) platform. It is a companion organisation to the primary [HERE Organization](https://github.com/openfin)
 
 The examples can be used by developers who are interested in building applications with HERE (formally OpenFin), and who want to see how different features and functionalities can be implemented.
 
@@ -16,17 +16,17 @@ Developers can clone or download the repositories to get started with building t
 
 ## Development Repositories
 
-- [HERE Enterprise Browser Starter](https://github.com/built-on-openfin/here-starter) – Examples demonstrating how to take advantage of our [Here Enterprise Browser](https://www.here.io) offering
-- [HERE Core UI Starter](https://github.com/built-on-openfin/workspace-starter) – Examples demonstrating the Here Core UI product written in TypeScript
+- [HERE Enterprise Browser Starter](https://github.com/built-on-openfin/here-starter) – Examples demonstrating how to take advantage of our [HERE Enterprise Browser](https://www.here.io) offering
+- [HERE Core UI Starter](https://github.com/built-on-openfin/workspace-starter) – Examples demonstrating the HERE Core UI product written in TypeScript
 - [HERE Core Web Starter](https://github.com/built-on-openfin/web-starter) – Examples demonstrating HERE NPM Libraries that work outside of the HERE Core Container (e.g a Desktop Browser like Edge, Chrome, etc or on a Tablet e.g. Safari) written in TypeScript
-- [HERE Core Container Starter](https://github.com/built-on-openfin/container-starter) – Examples demonstrating the Here Core Container product written in TypeScript
-- [HERE Node Starter](https://github.com/built-on-openfin/node-starter) – Examples demonstrating the Here Core product written in NodeJS
-- [HERE CSharp Starter](https://github.com/built-on-openfin/csharp-starter) – Examples demonstrating the Here Core product written in .NET
-- [HERE Java Starter](https://github.com/built-on-openfin/java-starter) – Examples demonstrating the Here Core product written in Java
+- [HERE Core Container Starter](https://github.com/built-on-openfin/container-starter) – Examples demonstrating the HERE Core Container product written in TypeScript
+- [HERE Node Starter](https://github.com/built-on-openfin/node-starter) – Examples demonstrating the HERE Core product written in NodeJS
+- [HERE CSharp Starter](https://github.com/built-on-openfin/csharp-starter) – Examples demonstrating the HERE Core product written in .NET
+- [HERE Java Starter](https://github.com/built-on-openfin/java-starter) – Examples demonstrating the HERE Core product written in Java
 
 ## Frontend Frameworks
 
-Here Core is frontend framework agnostic, but to gain a clearer understanding of how you would use it with popular frameworks we have some created simple examples in the following repository.
+HERE Core is frontend framework agnostic, but to gain a clearer understanding of how you would use it with popular frameworks we have some created simple examples in the following repository.
 - [HERE Frontend Framework Starter](https://github.com/built-on-openfin/frontend-framework-starter) - Examples for Angular/React using both HERE Core Container, HERE Core UI and HERE Core Web.
 
 ## Guides
@@ -39,7 +39,7 @@ Here Core is frontend framework agnostic, but to gain a clearer understanding of
 
 ## Tools
 
-- [HERE Health Check](https://cdn.openfin.co/health/deployment/index.html) - Load this page to see if you will be able to install/run Here Core without issue.
+- [HERE Health Check](https://cdn.openfin.co/health/deployment/index.html) - Load this page to see if you will be able to install/run HERE Core without issue.
 - [HERE Process Manager](https://start.openfin.co/pm) - Install the HERE Process Manager application
 
 ## License
@@ -48,6 +48,6 @@ These repositories are governed by the following license [Developer Agreement](h
 
 ## Other Resources
 
-- [Here Web Site](https://www.here.io)
+- [HERE Web Site](https://www.here.io)
 - [Other HERE Github Organisation](https://github.com/openfin)
 - [Development Docs](https://www.here.io/support#documentation)
