@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/built-on-openfin/.github/blob/main/profile/here-green.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/built-on-openfin/.github/blob/main/profile/here-green.svg?raw=true">
-  <img alt="HERE" src="https://github.com/built-on-openfin/.github/blob/main/profile/here-green.svg?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/built-on-openfin/.github/blob/main/profile/here-purple.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/built-on-openfin/.github/blob/main/profile/here-purple.svg?raw=true">
+  <img alt="HERE" src="https://github.com/built-on-openfin/.github/blob/main/profile/here-purple.svg?raw=true">
 </picture>
 
 # Built On HERE
